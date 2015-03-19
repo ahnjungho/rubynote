@@ -1,0 +1,19 @@
+{
+  "name": "rubynote",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ahnjungho/rubynote",
+  "authors": [
+    "Ahn Jungho <ahnjungho@ahnjungho.org>"
+  ],
+  "license": "MIT",
+  "dependencies" : {
+    "bootstrap": "3.3.4"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
