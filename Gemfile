@@ -24,7 +24,10 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 # Use bower as front-end libary manager
-gem "bower-rails", "~> 0.9.2"
+gem 'bower-rails', '~> 0.9.2'
+
+# Use devise for authentication
+gem 'devise'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
