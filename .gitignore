@@ -16,5 +16,7 @@
 !/log/.keep
 /tmp
 
-# Ignore vi files
+# - - - 
 *.swp
+.DS_Store
+
