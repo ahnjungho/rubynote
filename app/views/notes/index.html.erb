@@ -1,0 +1,10 @@
+
+<ul>
+  <% @notes.each do |note| %>
+  <li>
+    <div><%= note.body %></div>
+    <p><%= note.user.username %> at <%= note.created_at %></p>
+  </li>
+  <% end %>
+</ul>
+
